@@ -1,0 +1,317 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - region "top of page"
+  - generic [ref=e9]:
+    - banner [ref=e10]:
+      - generic [ref=e21]:
+        - link "lumo_logo_black.png" [ref=e27] [cursor=pointer]:
+          - /url: https://www.lumochange.com
+          - img "lumo_logo_black.png" [ref=e28]
+        - generic [ref=e29]:
+          - generic:
+            - generic:
+              - navigation "Site" [ref=e34]:
+                - list [ref=e35]:
+                  - listitem [ref=e36]:
+                    - link "home" [ref=e38] [cursor=pointer]:
+                      - /url: https://www.lumochange.com
+                      - generic [ref=e40]: home
+                  - listitem [ref=e41]:
+                    - link "services" [ref=e43] [cursor=pointer]:
+                      - /url: https://www.lumochange.com/services
+                      - generic [ref=e45]: services
+                  - listitem [ref=e46]:
+                    - link "insights" [ref=e48] [cursor=pointer]:
+                      - /url: https://www.lumochange.com/insights
+                      - generic [ref=e50]: insights
+                  - listitem [ref=e51]:
+                    - link "careers" [ref=e53] [cursor=pointer]:
+                      - /url: https://www.lumochange.com/careers
+                      - generic [ref=e55]: careers
+                  - listitem [ref=e56]:
+                    - link "contact" [ref=e58] [cursor=pointer]:
+                      - /url: https://www.lumochange.com/contact
+                      - generic [ref=e60]: contact
+              - list "Social Bar" [ref=e62]:
+                - listitem [ref=e63]:
+                  - link "LinkedIn" [ref=e64] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lumo-change/posts/?feedView=all
+                    - img "LinkedIn" [ref=e65]
+    - main [ref=e66]:
+      - generic [ref=e71]:
+        - generic:
+          - generic:
+            - generic:
+              - generic [ref=e72]:
+                - generic:
+                  - generic:
+                    - generic [ref=e85]:
+                      - heading "WE HELP BUSINESSES ACTUALLY NAVIGATE AI" [level=1]
+                      - img [ref=e87]:
+                        - generic [ref=e88]:
+                          - generic [ref=e89]: WE HELP BUSINESSES
+                          - generic [ref=e90]: ACTUALLY NAVIGATE AI
+                    - generic [ref=e96]:
+                      - heading "we're the AI enablement company. we help organisations understand, integrate & embed AI & emerging capabilities to create, scale & sustain long term value." [level=2] [ref=e101]:
+                        - generic [ref=e105]:
+                          - text: we're the AI enablement company.
+                          - text: we help organisations understand, integrate & embed AI & emerging capabilities to create, scale & sustain long term value.
+                      - generic [ref=e106]:
+                        - generic:
+                          - generic:
+                            - link "get in touch" [ref=e111] [cursor=pointer]:
+                              - /url: https://www.lumochange.com/contact
+                              - generic [ref=e112]: get in touch
+                            - link "readiness audit" [ref=e114] [cursor=pointer]:
+                              - /url: https://www.lumochange.com/assessment-landing
+                              - generic [ref=e115]: readiness audit
+              - generic [ref=e125]:
+                - generic:
+                  - generic:
+                    - heading "too many AI initiatives fail. why?" [level=2] [ref=e129]:
+                      - generic [ref=e132]: too many AI initiatives fail. why?
+                    - list [ref=e134]:
+                      - listitem [ref=e136]:
+                        - generic [ref=e137]:
+                          - generic:
+                            - generic:
+                              - img [ref=e143]
+                              - heading "organisations are still leading with the tech" [level=2] [ref=e146]:
+                                - generic [ref=e150]: organisations are still leading with the tech
+                              - paragraph [ref=e151]:
+                                - generic [ref=e155]: outcome first, tool second - or be prepared for solutions to stay stuck in pilot, hinder adoption & ultimately fail.
+                      - listitem [ref=e157]:
+                        - generic [ref=e158]:
+                          - generic:
+                            - generic:
+                              - img [ref=e164]
+                              - heading "conditions for success are not being built" [level=2] [ref=e167]:
+                                - generic [ref=e170]: conditions for success are not being built
+                              - paragraph [ref=e171]:
+                                - generic [ref=e174]: from awareness & strategy to readiness, governance & culture, you must build toward AI - you don't just plug it in.
+                      - listitem [ref=e176]:
+                        - generic [ref=e177]:
+                          - generic:
+                            - generic:
+                              - img [ref=e183]
+                              - heading "it needs more than AI - it needs holistic change" [level=2] [ref=e186]:
+                                - generic [ref=e189]: it needs more than AI - it needs holistic change
+                              - paragraph [ref=e190]:
+                                - generic [ref=e193]: the organisation must move in unison - data, architecture, workflows and people must evolve together.
+              - generic [ref=e195]:
+                - generic:
+                  - generic:
+                    - heading "how we help" [level=2] [ref=e199]:
+                      - generic [ref=e201]: how we help
+                    - generic [ref=e206]:
+                      - generic [ref=e207]:
+                        - generic:
+                          - generic:
+                            - img [ref=e214]
+                            - heading "awareness" [level=3] [ref=e217]:
+                              - generic [ref=e219]: awareness
+                            - paragraph [ref=e220]:
+                              - generic [ref=e222]: we bring clarity to the opportunity - and the risk. we help leaders understand where AI can (and can’t) create value, & what’s required to govern it well. no AI for the sake of AI, just well-informed decisions that lead to purposeful, measurable change.
+                      - generic [ref=e223]:
+                        - generic:
+                          - generic:
+                            - img [ref=e230]
+                            - heading "strategy" [level=3] [ref=e233]:
+                              - generic [ref=e235]: strategy
+                            - paragraph [ref=e236]:
+                              - generic [ref=e238]: we define what the future needs to look like - across data, architecture, people and process. through a 1-3-5 year lens, we prioritise high-value opportunities and design a transformation roadmap rooted in your operating context.
+                    - generic [ref=e243]:
+                      - generic [ref=e244]:
+                        - generic:
+                          - generic:
+                            - img [ref=e251]
+                            - heading "enablement" [level=3] [ref=e254]:
+                              - generic [ref=e256]: enablement
+                            - paragraph [ref=e257]:
+                              - generic [ref=e260]:
+                                - text: enablement means more than training.
+                                - text: we design and embed the structures, roles and workflows required for AI to succeed - supported by education, governance, measurement and real-world transition support.
+                      - generic [ref=e261]:
+                        - generic:
+                          - generic:
+                            - img [ref=e268]
+                            - heading "execution" [level=3] [ref=e271]:
+                              - generic [ref=e273]: execution
+                            - paragraph [ref=e274]:
+                              - generic [ref=e276]: we build automation-first, AI-native solutions - from rewired workflows to tools, integrations and processes. our lean, high-skill teams deliver value faster - without agency bloat. pricing aligns to value. change is embedded, not just delivered.
+              - generic [ref=e278]:
+                - generic:
+                  - generic:
+                    - heading "outcomes we deliver" [level=2] [ref=e291]:
+                      - generic [ref=e293]: outcomes we deliver
+                    - list [ref=e295]:
+                      - listitem [ref=e297]:
+                        - generic [ref=e298]:
+                          - generic:
+                            - generic:
+                              - img [ref=e304]
+                              - heading "efficiency" [level=2] [ref=e307]:
+                                - generic [ref=e310]: efficiency
+                              - heading "same output, quicker, with less." [level=2] [ref=e311]:
+                                - generic [ref=e315]: same output, quicker, with less.
+                              - paragraph [ref=e316]:
+                                - generic [ref=e320]:
+                                  - text: less friction.
+                                  - text: less time.
+                                  - text: less people
+                      - listitem [ref=e322]:
+                        - generic [ref=e323]:
+                          - generic:
+                            - generic:
+                              - img [ref=e329]
+                              - heading "growth" [level=2] [ref=e332]:
+                                - generic [ref=e335]: growth
+                              - heading "do more, with the same." [level=2] [ref=e336]:
+                                - generic [ref=e339]: do more, with the same.
+                              - paragraph [ref=e340]:
+                                - generic [ref=e344]:
+                                  - text: better experience.
+                                  - text: higher effectiveness.
+                                  - text: increased innovation.
+                      - listitem [ref=e346]:
+                        - generic [ref=e347]:
+                          - generic:
+                            - generic:
+                              - img [ref=e353]
+                              - heading "rewired" [level=2] [ref=e356]:
+                                - generic [ref=e359]: rewired
+                              - heading "futureproof your business." [level=2] [ref=e360]:
+                                - generic [ref=e363]: futureproof your business.
+                              - paragraph [ref=e364]:
+                                - generic [ref=e368]:
+                                  - text: how work flows across your business.
+                                  - text: your structures, capabilities & people.
+                                  - text: ‍how you compete & evolve
+              - generic [ref=e369]:
+                - generic:
+                  - generic:
+                    - heading "impact that compounds" [level=2] [ref=e373]:
+                      - generic [ref=e377]: impact that compounds
+                    - heading "20+" [level=1] [ref=e380]:
+                      - generic [ref=e382]: 20+
+                    - paragraph [ref=e383]:
+                      - generic [ref=e385]: years of transformation
+                    - heading "1000s" [level=1] [ref=e388]:
+                      - generic [ref=e390]: 1000s
+                    - paragraph [ref=e391]:
+                      - generic [ref=e393]: hours saved
+                    - generic:
+                      - paragraph [ref=e394]:
+                        - generic [ref=e397]: metrics only move when organisations do.
+                      - paragraph [ref=e398]
+                      - paragraph [ref=e399]:
+                        - generic [ref=e402]: we drive sustainable change at scale by aligning strategy, systems and people around a shared path to value
+                    - heading "100s" [level=1] [ref=e405]:
+                      - generic [ref=e407]: 100s
+                    - paragraph [ref=e408]:
+                      - generic [ref=e410]: workflows architected
+                    - heading "50+" [level=1] [ref=e413]:
+                      - generic [ref=e415]: 50+
+                    - paragraph [ref=e416]:
+                      - generic [ref=e418]: teams enabled
+              - generic [ref=e419]:
+                - generic:
+                  - generic:
+                    - heading "insights" [level=2] [ref=e432]:
+                      - generic [ref=e434]: insights
+                    - list [ref=e436]:
+                      - generic [ref=e437]:
+                        - listitem [ref=e438]:
+                          - generic [ref=e439]:
+                            - generic:
+                              - generic:
+                                - img [ref=e445]
+                                - paragraph [ref=e449]:
+                                  - generic [ref=e454]: "The building blocks of a GenAI strategy: guiding your path to success"
+                                - link "read more" [ref=e456] [cursor=pointer]:
+                                  - /url: https://www.lumochange.com/ai-workflow-orchestration
+                                  - generic [ref=e458]: read more
+                        - listitem [ref=e459]:
+                          - generic [ref=e460]:
+                            - generic:
+                              - generic:
+                                - img [ref=e466]
+                                - paragraph [ref=e469]:
+                                  - generic [ref=e473]: AI workflow orchestration - the critical factor to scaling
+                                - link "read more" [ref=e475] [cursor=pointer]:
+                                  - /url: https://www.lumochange.com/ai-workflow-orchestraition
+                                  - generic [ref=e477]: read more
+                      - generic [ref=e478]:
+                        - listitem [ref=e479]:
+                          - generic [ref=e480]:
+                            - generic:
+                              - generic:
+                                - img [ref=e486]
+                                - paragraph [ref=e489]:
+                                  - generic [ref=e493]: "AI transformation demands a new blueprint: here is why"
+                                - link "read more" [ref=e495] [cursor=pointer]:
+                                  - /url: https://www.lumochange.com/beyond-the-hype
+                                  - generic [ref=e497]: read more
+                        - listitem [ref=e498]:
+                          - generic [ref=e499]:
+                            - generic:
+                              - generic:
+                                - img [ref=e505]
+                                - paragraph [ref=e508]:
+                                  - generic [ref=e512]: "Beyond AI hype: building the right foundations for lasting impact"
+                                - link "read more" [ref=e514] [cursor=pointer]:
+                                  - /url: https://www.lumochange.com/scaling-rewiring
+                                  - generic [ref=e516]: read more
+    - contentinfo [ref=e517]:
+      - generic [ref=e523]:
+        - generic:
+          - generic:
+            - generic [ref=e529]:
+              - generic:
+                - generic:
+                  - heading "ready to rewire your business?" [level=2] [ref=e533]:
+                    - generic [ref=e535]: ready to rewire your business?
+                  - paragraph [ref=e536]:
+                    - generic [ref=e539]: get in touch to discuss your objectives & operating context in a 30 minute intro call.
+                  - link "get in touch" [ref=e541] [cursor=pointer]:
+                    - /url: https://www.lumochange.com/contact
+                    - generic [ref=e542]: get in touch
+                  - link "readiness audit" [ref=e544] [cursor=pointer]:
+                    - /url: https://www.lumochange.com/assessment-landing
+                    - generic [ref=e545]: readiness audit
+                  - navigation "Site" [ref=e547]:
+                    - list [ref=e548]:
+                      - listitem [ref=e549]:
+                        - link "home" [ref=e551] [cursor=pointer]:
+                          - /url: https://www.lumochange.com
+                          - generic [ref=e553]: home
+                      - listitem [ref=e554]:
+                        - link "services" [ref=e556] [cursor=pointer]:
+                          - /url: https://www.lumochange.com/services
+                          - generic [ref=e558]: services
+                      - listitem [ref=e559]:
+                        - link "insights" [ref=e561] [cursor=pointer]:
+                          - /url: https://www.lumochange.com/insights
+                          - generic [ref=e563]: insights
+                      - listitem [ref=e564]:
+                        - link "careers" [ref=e566] [cursor=pointer]:
+                          - /url: https://www.lumochange.com/careers
+                          - generic [ref=e568]: careers
+                      - listitem [ref=e569]:
+                        - link "contact" [ref=e571] [cursor=pointer]:
+                          - /url: https://www.lumochange.com/contact
+                          - generic [ref=e573]: contact
+            - img "UK AI logo" [ref=e577]
+            - link "lumo_logo_black.png" [ref=e579] [cursor=pointer]:
+              - /url: https://www.lumochange.com
+              - img "lumo_logo_black.png" [ref=e580]
+            - paragraph [ref=e581]:
+              - generic [ref=e584]: © 2025 Lumo. All rights reserved.
+            - paragraph [ref=e585]:
+              - link "privacy policy" [ref=e589] [cursor=pointer]:
+                - /url: https://www.lumochange.com/privacy-policy
+                - generic [ref=e590]: privacy policy
+  - region "bottom of page"
+```
