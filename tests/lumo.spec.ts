@@ -10,7 +10,7 @@ test.describe('Lumo Change (Wix) public site', () => {
 
     const sitePages = page.locator('#SITE_PAGES');
     await expect(sitePages).toContainText(
-      /(WE\s+BRING\s+THE\s+REALITY\s+BACK\s+TO\s+AI)|(BUILD\s+THE\s+CONDITIONS\s+FOR\s+AI\s+TO\s+SCALE)/i,
+      /(WE\s+BRING\s+THE\s+REALITY\s+BACK\s+TO\s+AI)|(BUILD\s+THE\s+CONDITIONS\s+FOR\s+AI\s+TO\s+SCALE)|(CUT\s+THROUGH\s+THE\s+NOISE\s+TO\s+LEVERAGE\s+AI)/i,
       { timeout: 30000 }
     );
   });
